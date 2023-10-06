@@ -24,3 +24,10 @@ In a busy life with work, study, and family commitments, it's easy to lose track
    git clone https://github.com/Jamelas/MoviePicker.git
    ```
 
+## How-to-use
+
+- Run the executable and  you'll be greeted with a user-friendly menu that lets you manage your movie list.
+- Add movies to your watchlist by selecting option 2 and providing the movie name.
+- Delete movies from your watchlist after you've watched them using option 3.
+- Choose a random movie from your watchlist when you can't decide what to watch (option 4).
+- Quit the program when you're done.
